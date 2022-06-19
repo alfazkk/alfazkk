@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfazkk
-- 👀 I’m interested in Web Development and Machine Learning
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web development (Front end) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail: alfazkk631@gmail.com
